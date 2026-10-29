@@ -1,0 +1,101 @@
+id_producto,nombre,categoria,stock,precio_unitario,fecha_ingreso
+7681,lavandina,limpieza,9783,591.41,2025-07-30
+4234,detergente,limpieza,6450,16.24,2025-06-03
+5777,desengrasante,limpieza,7670,760.56,2026-05-28
+3624,esponja,limpieza,116,352.56,2026-01-13
+1185,tomate,comestible,8431,733.92,2024-10-18
+9622,fideos,comestible,9316,701.04,2026-10-17
+1835,arroz,comestible,4576,242.39,2024-03-02
+619,leche,comestible,8240,479.09,2026-05-02
+4971,aceite de girasol,comestible,6293,618.25,2026-06-28
+136,azucar,comestible,5178,942.96,2025-12-12
+7571,harina,comestible,4747,268.94,2025-12-12
+647,escoba,limpieza,641,692.00,2026-08-25
+5600,trapeador,limpieza,4427,856.71,2026-04-30
+8303,limpiavidrios,limpieza,8172,622.97,2024-08-30
+6423,limpiador multiuso,limpieza,5681,720.52,2025-10-09
+5929,jabon en polvo,limpieza,5110,684.13,2025-07-31
+2980,salsa de tomate,comestible,2166,930.46,2024-03-11
+437,lentejas,comestible,235,983.98,2024-05-08
+7259,arvejas en conserva,comestible,1141,140.80,2026-01-21
+4002,galletitas,comestible,775,874.12,2025-12-31
+3031,yerba mate,comestible,6284,415.47,2026-07-29
+4565,cafe molido,comestible,9251,238.56,2026-04-07
+2346,te en saquitos,comestible,5421,400.28,2025-03-22
+8930,sal fina,comestible,2062,989.05,2024-10-23
+3242,vinagre,comestible,1178,184.02,2025-11-22
+3078,mayonesa,comestible,5116,714.97,2025-06-03
+2525,mostaza,comestible,5298,651.60,2024-11-06
+7535,mermelada,comestible,1820,779.10,2024-04-05
+8118,jabon de tocador,cuidado_personal,5451,33.11,2026-01-08
+316,shampoo,cuidado_personal,1739,407.75,2025-12-12
+7818,acondicionador,cuidado_personal,605,694.72,2024-11-21
+4789,pasta dental,cuidado_personal,2585,698.18,2024-11-21
+8624,cepillo dental,cuidado_personal,2664,424.48,2025-01-26
+7072,desodorante,cuidado_personal,4517,431.60,2024-12-12
+3612,crema corporal,cuidado_personal,9542,252.01,2026-06-20
+642,protector solar,cuidado_personal,6738,451.04,2026-08-31
+9000,panuelos descartables,hogar,6940,528.80,2025-06-22
+576,bolsas de residuos,hogar,4342,239.10,2025-12-21
+6700,papel higienico,hogar,2000,425.80,2025-06-07
+7971,servilletas de papel,hogar,6755,961.96,2025-06-08
+1349,lamparita led,hogar,6446,733.41,2025-06-09
+8568,pilas alcalinas,hogar,960,217.84,2026-03-30
+6431,vaso de vidrio,hogar,1037,581.11,2025-04-12
+2328,taza de ceramica,hogar,949,723.59,2026-09-03
+4469,plato llano,hogar,309,361.01,2026-02-20
+1084,cuaderno rayado,papeleria,7623,814.02,2026-10-27
+5668,lapiz negro,papeleria,9558,955.80,2025-10-27
+5922,lapicera azul,papeleria,4567,654.88,2026-10-20
+6035,goma de borrar,papeleria,5349,715.80,2025-08-09
+6243,regla plastica,papeleria,3587,367.96,2024-02-07
+6456,marcador permanente,papeleria,5824,494.39,2026-06-18
+9978,resaltador,papeleria,2779,416.51,2026-10-22
+2805,hojas A4,papeleria,2896,20.34,2025-10-05
+4926,carpeta escolar,papeleria,3338,787.78,2026-04-24
+1419,cinta adhesiva,papeleria,5452,100.52,2026-10-24
+7558,arroz integral,comestible,8820,156.35,2024-05-26
+8972,polenta,comestible,7919,216.29,2024-10-02
+245,atun en conserva,comestible,2941,377.58,2025-08-20
+7339,maiz en conserva,comestible,5178,723.34,2026-07-25
+1875,caldo en cubos,comestible,6484,62.21,2025-02-26
+9771,agua mineral,comestible,2242,252.26,2025-11-29
+3006,jugo de naranja,comestible,3885,150.50,2026-05-07
+4899,gaseosa cola,comestible,8195,84.72,2024-08-10
+111,leche chocolatada,comestible,3331,123.57,2025-01-01
+3215,queso rallado,comestible,5233,486.95,2024-03-31
+242,galletitas de agua,comestible,3929,85.73,2025-11-02
+5562,cereal de desayuno,comestible,6738,792.27,2024-06-27
+8817,barra de cereal,comestible,5111,327.00,2026-09-15
+9051,harina de maiz,comestible,5718,106.63,2026-05-21
+9518,azucar rubia,comestible,7507,184.47,2025-04-19
+821,edulcorante,comestible,811,242.61,2026-09-28
+105,pimienta molida,comestible,9646,290.45,2026-10-21
+7223,oregano seco,comestible,3398,397.54,2026-09-06
+894,aceitunas verdes,comestible,6715,283.73,2026-03-07
+9086,queso crema,comestible,5493,398.25,2024-04-28
+5802,crema de leche,comestible,5489,724.19,2025-03-15
+5560,esponja metalica,limpieza,7352,22.69,2026-02-08
+2387,lavandina en gel,limpieza,6291,604.52,2024-06-17
+6286,limpiador de pisos,limpieza,5447,168.24,2025-09-27
+5488,quitamanchas,limpieza,6381,816.83,2025-04-14
+6695,suavizante para ropa,limpieza,5674,938.16,2025-03-29
+920,limpiador de horno,limpieza,2509,932.00,2024-05-26
+6932,desinfectante,limpieza,4617,778.99,2026-08-19
+99,limpiador de banos,limpieza,7116,526.61,2025-05-19
+5907,repasador de cocina,hogar,4706,76.47,2024-03-25
+4467,abrelatas,hogar,962,743.54,2026-05-05
+8705,cuchara de madera,hogar,3170,612.56,2024-04-29
+6650,tabla para picar,hogar,9053,534.20,2025-11-28
+3028,contenedor plastico,hogar,469,192.32,2025-09-27
+5228,percha plastica,hogar,7205,974.55,2024-07-16
+2187,vela aromatica,hogar,3392,182.08,2026-07-23
+6703,maceta pequena,hogar,7445,841.98,2025-09-29
+3929,boligrafo negro,papeleria,247,141.30,2026-08-07
+9405,lapices de colores,papeleria,6834,336.10,2024-04-05
+8992,tijera escolar,papeleria,1430,545.86,2025-04-28
+7957,pegamento en barra,papeleria,1878,942.50,2025-10-13
+6724,sacapuntas,papeleria,3922,899.91,2024-09-08
+109,block de dibujo,papeleria,6071,501.64,2024-11-07
+4975,sobre oficio,papeleria,118,542.19,2024-03-15
+2418,papel de regalo,papeleria,5935,720.23,2024-06-19
