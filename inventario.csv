@@ -1,5 +1,5 @@
 id_producto,nombre,categoria,stock,precio_unitario,fecha_ingreso
-7681,lavandina,limpieza,9783,591.41,2025-07-30
+7681,lavandina,limpieza,0,591.41,2025-07-30
 4234,detergente,limpieza,6450,16.24,2025-06-03
 5777,desengrasante,limpieza,7670,760.56,2026-05-28
 3624,esponja,limpieza,116,352.56,2026-01-13
@@ -17,17 +17,17 @@ id_producto,nombre,categoria,stock,precio_unitario,fecha_ingreso
 5929,jabon en polvo,limpieza,5110,684.13,2025-07-31
 2980,salsa de tomate,comestible,2166,930.46,2024-03-11
 437,lentejas,comestible,235,983.98,2024-05-08
-7259,arvejas en conserva,comestible,1141,140.80,2026-01-21
+7259,arvejas en conserva,comestible,0,140.80,2026-01-21
 4002,galletitas,comestible,775,874.12,2025-12-31
 3031,yerba mate,comestible,6284,415.47,2026-07-29
 4565,cafe molido,comestible,9251,238.56,2026-04-07
-2346,te en saquitos,comestible,5421,400.28,2025-03-22
+2346,te en saquitos,comestible,0,400.28,2025-03-22
 8930,sal fina,comestible,2062,989.05,2024-10-23
 3242,vinagre,comestible,1178,184.02,2025-11-22
 3078,mayonesa,comestible,5116,714.97,2025-06-03
 2525,mostaza,comestible,5298,651.60,2024-11-06
 7535,mermelada,comestible,1820,779.10,2024-04-05
-8118,jabon de tocador,cuidado_personal,5451,33.11,2026-01-08
+8118,jabon de tocador,cuidado_personal,0,33.11,2026-01-08
 316,shampoo,cuidado_personal,1739,407.75,2025-12-12
 7818,acondicionador,cuidado_personal,605,694.72,2024-11-21
 4789,pasta dental,cuidado_personal,2585,698.18,2024-11-21
@@ -54,7 +54,7 @@ id_producto,nombre,categoria,stock,precio_unitario,fecha_ingreso
 2805,hojas A4,papeleria,2896,20.34,2025-10-05
 4926,carpeta escolar,papeleria,3338,787.78,2026-04-24
 1419,cinta adhesiva,papeleria,5452,100.52,2026-10-24
-7558,arroz integral,comestible,8820,156.35,2024-05-26
+7558,arroz integral,comestible,0,156.35,2024-05-26
 8972,polenta,comestible,7919,216.29,2024-10-02
 245,atun en conserva,comestible,2941,377.58,2025-08-20
 7339,maiz en conserva,comestible,5178,723.34,2026-07-25
