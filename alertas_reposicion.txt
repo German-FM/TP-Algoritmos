@@ -1,0 +1,5 @@
+7681 | lavandina | 0 | limpieza
+7259 | arvejas en conserva | 0 | comestible
+2346 | te en saquitos | 0 | comestible
+8118 | jabon de tocador | 0 | cuidado_personal
+7558 | arroz integral | 0 | comestible
