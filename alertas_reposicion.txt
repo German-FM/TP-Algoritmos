@@ -1,0 +1,5 @@
+7681 | lavandina | Stock actual: 0 | Categoria: limpieza
+7259 | arvejas en conserva | Stock actual: 0 | Categoria: comestible
+2346 | te en saquitos | Stock actual: 0 | Categoria: comestible
+8118 | jabon de tocador | Stock actual: 0 | Categoria: cuidado_personal
+7558 | arroz integral | Stock actual: 0 | Categoria: comestible
